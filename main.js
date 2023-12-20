@@ -1,6 +1,6 @@
-const x = 5
-const y = 7
-const z = 9
+const x = 7
+const y = 9
+const z = 11
 
 function add(){
     return
