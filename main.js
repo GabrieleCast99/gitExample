@@ -5,3 +5,6 @@ const z = 9
 function add(){
     return
 }
+function add(){
+    return
+}
